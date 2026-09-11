@@ -1,1 +1,1 @@
-print(mipangpang)
+print("mipangpang")
